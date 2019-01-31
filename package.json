@@ -1,0 +1,16 @@
+{
+  "name": "crackjs",
+  "version": "1.0.0",
+  "description": "Generic password cracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.test.js"
+  },
+  "author": "Logan Esenther (logan@cal.berkeley.edu)",
+  "license": "ISC",
+  "dependencies": {
+    "bruteforcejs": "^1.1.9",
+    "rununtil": "git+http://github.com/lesenther/runUntil.git",
+    "unzip": "^0.1.11"
+  }
+}
