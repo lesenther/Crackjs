@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bruteforcejs": "^1.1.9",
+    "node-7z": "^1.1.1",
     "rununtil": "git+http://github.com/lesenther/runUntil.git",
     "unzip": "^0.1.11"
   }
